@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rijoan Fardous
 - 🌱 I’m currently learning Full Stack Web Development
-- 📫 Rmail me at rijoanfardous7@gmail.com
+- 📫 Email me at rijoanfardous7@gmail.com
 
 <!---
 rijoanfardous7/rijoanfardous7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
